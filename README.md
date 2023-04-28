@@ -1,2 +1,2 @@
 # pokemon
-¿Cómo ser un maestro Pokemon?
+¿Cómo ser un Meaestro de Datos Pokemon?
